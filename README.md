@@ -1,6 +1,8 @@
 # SIMD-SHA256
 Header Only SHA256 implement with SIMD instruction
 
+https://crackme.net/articles/simdsha256/
+
 ```C++
 #include "SIMDSHA256.h"
 
